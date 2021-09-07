@@ -1,4 +1,4 @@
-# Tensorflow．js物体検出サンプルコード. Reactを使って実装した例
+# TensorFlow.js物体検出サンプルコード. Reactを使って実装した例
 
 
 [このレポジトリ](https://github.com/wmkinyan/RealTimeObjectDetectionTFJSReact)をクローンしていじってみた.
